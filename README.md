@@ -2,8 +2,6 @@
 
 This is an Application Stub for macOS Catalina and newer to run Logisim without installing the old Java Runtime Environment.
 
-&nbsp;
-
 ### Installation
 
 Logisim requires the Java JDK. I recommend installing it with [Homebrew](https://brew.sh/index_de).
@@ -14,8 +12,6 @@ $ brew cask install java
 ```
 
 Next, download the [Release-App](https://brew.sh/index_de) and drag it into your Applications folder.
-
-&nbsp;
 
 ### Open "Logisim" and enjoy!
 

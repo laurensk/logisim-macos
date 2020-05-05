@@ -11,7 +11,7 @@ After installing Homebrew, download and install Java as a brew cask in your Term
 $ brew cask install java
 ```
 
-Next, download the [Release-App](https://brew.sh/index_de) and drag it into your Applications folder.
+Next, download the [Release-App](https://github.com/LaurensKDev/logisim-macos/releases) and drag it into your Applications folder.
 
 ### Open "Logisim" and enjoy!
 

@@ -13,9 +13,8 @@ $ brew cask install java
 
 Next, download the [Release-App](https://github.com/LaurensKDev/logisim-macos/releases) and drag it into your Applications folder.
 
-### Open "Logisim" and enjoy!
+#### Open "Logisim" and enjoy!
 
-&nbsp;
 &nbsp;
 &nbsp;
 

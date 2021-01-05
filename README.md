@@ -11,6 +11,12 @@ After installing Homebrew, download and install Java as a brew cask in your Term
 $ brew cask install java
 ```
 
+Alternatively, if you are running macOS 11 (Big Sur) and HomeBrew > 2.6.0: 
+
+```sh
+$ brew install --cask adoptopenjdk/openjdk/adoptopenjdk8
+```
+
 Next, download the [Release-App](https://github.com/LaurensKDev/logisim-macos/releases) and drag it into your Applications folder.
 
 #### Open "Logisim" and enjoy!

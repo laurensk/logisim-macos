@@ -21,9 +21,6 @@ Next, download the [Release-App](https://github.com/LaurensKDev/logisim-macos/re
 
 #### Open "Logisim" and enjoy!
 
-&nbsp;
-&nbsp;
-
 ### Note
 I didn't develop the Logisim app! This is only an Application Stub to run it on macOS Catalina and never.
 Credit: http://www.cburch.com/logisim/index.html
